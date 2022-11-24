@@ -1,1 +1,1 @@
-Welcome to Mata Elang Open Source Project
+Welcome to Mata Elang Project
